@@ -1,12 +1,3 @@
 ! Bing Rewards cosmetic cleanup
 rewards.bing.com##.theme-light.context-accessory.f-y-center.f-x-left.m-hero-item > picture
 rewards.bing.com##.theme-light.context-accessory.f-y-center.f-x-left.m-hero-item
-! Feb 7, 2026 Bing Rewards hide
-rewards.bing.com##.f-double.c-card.ng-isolate-scope.ng-scope > .c-card-content > .ng-scope > .ng-isolate-scope > .min-dimension.rewards-card-container.text-align-center > .ng-scope.ds-card-sec > mee-rewards-points.ng-isolate-scope > .clearfix.points > .ng-scope > .mee-icon-SkypeCircleCheck.mee-icon
-! Bing Rewards cosmetic cleanup
-||rewards.bing.com/rewardscdn/images/rewards/membercenter/missions/Animated-Banners/RafBannerPromotionBackground_large.png$image
-rewards.bing.com##.theme-light.context-accessory.f-y-center.f-x-left.m-hero-item > picture
-rewards.bing.com##.theme-light.context-accessory.f-y-center.f-x-left.m-hero-item
-
-! Feb 7, 2026 Bing Rewards hide
-rewards.bing.com##.f-double.c-card.ng-isolate-scope.ng-scope > .c-card-content > .ng-scope > .ng-isolate-scope > .min-dimension.rewards-card-container.text-align-center > .ng-scope.ds-card-sec > mee-rewards-points.ng-isolate-scope > .clearfix.points > .ng-scope > .mee-icon-SkypeCircleCheck.mee-icon
