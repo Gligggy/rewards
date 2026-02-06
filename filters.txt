@@ -1,0 +1,3 @@
+! Bing Rewards cosmetic cleanup
+rewards.bing.com##.theme-light.context-accessory.f-y-center.f-x-left.m-hero-item > picture
+rewards.bing.com##.theme-light.context-accessory.f-y-center.f-x-left.m-hero-item
